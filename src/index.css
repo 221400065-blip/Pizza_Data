@@ -1,0 +1,22 @@
+
+.nav-link{
+  color: black !important;
+}
+.navbar-brand{
+  color: black !important;
+}
+body{
+ font-family: sans-serif;
+
+
+}
+h1{
+  font-size: 17px !important;
+}
+.flex-container{
+  display: flex !important;
+
+}
+.row{
+  align-items: center !important;
+}
